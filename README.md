@@ -1,7 +1,7 @@
 # LoginRegister
 
  <p> Kullanıcı kayıt işleminde AsyncStorage kullanılmıştır </p>
- <h1>Proje Dependencies </h1> 
+ <h2>Proje Dependencies </h2> 
  
 ```` 
   "@react-native-async-storage/async-storage": "^1.15.5",
